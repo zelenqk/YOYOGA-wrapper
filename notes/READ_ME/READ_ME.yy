@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"READ_ME",
+  "name":"READ_ME",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

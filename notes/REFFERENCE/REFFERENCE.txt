@@ -1,0 +1,77 @@
+SPRITE
+{
+  "spriteScaleX":1.0,
+  "spriteScaleY":1.0,
+  "spriteColour":-1.0,
+  "spriteImageSpeed":1.0,
+  "spriteSpeedType":0.0,
+  "spriteImageIndex":0.0,
+  "spriteAngle":0.0,
+  "type":"Sprite",
+  "flexVisible":true,
+  "flexAnchor":"TopLeft",
+  "flexStretchWidth":false,
+  "flexStretchHeight":false,
+  "flexTileHorizontal":false,
+  "flexTileVertical":false,
+  "flexStretchKeepAspect":false,
+  "spriteIndex":"@ref sprite(sTest)",
+  "spriteOffsetX":0.0,
+  "spriteOffsetY":0.0
+}
+
+TEXT
+
+ {
+   "textOffsetY":0.0,
+   "textScaleX":1.0,
+   "textScaleY":1.0,
+   "textAngle":0.0,
+   "textColour":-1.0,
+   "textOriginX":0.0,
+   "textOriginY":0.0,
+   "textText":"Lorem Ipsum",
+   "textAlignment":0.0,
+   "textCharacterSpacing":0.0,
+   "textLineSpacing":0.0,
+   "textFrameWidth":0.0,
+   "textFrameHeight":0.0,
+   "textWrap":false,
+   "type":"Text",
+   "flexVisible":true,
+   "flexAnchor":"TopLeft",
+   "flexStretchWidth":false,
+   "flexStretchHeight":false,
+   "flexTileHorizontal":false,
+   "flexTileVertical":false,
+   "flexStretchKeepAspect":false,
+   "textFontIndex":"@ref font(fntTest)",
+   "textOffsetX":0.0
+ }
+
+OBJECT
+
+{
+  "instanceOffsetY":8.0,
+  "instanceScaleX":1.0,
+  "instanceScaleY":1.0,
+  "instanceImageSpeed":1.0,
+  "instanceImageIndex":0.0,
+  "instanceColour":-1.0,
+  "instanceAngle":0.0,
+  "instanceId":"@ref instance(100000)",
+  "type":"Instance",
+  "flexVisible":true,
+  "flexAnchor":"TopLeft",
+  "flexStretchWidth":false,
+  "flexStretchHeight":false,
+  "flexTileHorizontal":false,
+  "flexTileVertical":false,
+  "flexStretchKeepAspect":false,
+  "instanceObjectIndex":"@ref object(oController)",
+  "instanceVariables":{
+  },
+  "instanceOffsetX":8.0
+}
+
+
