@@ -11,7 +11,7 @@ This is an attempt to demystify the new UI system in GameMaker — specifically 
 While this wrapper isn't production-ready, it's a great starting point to understand how the system works.  
 You can study it, extend it, or build your own version from scratch.
 
-- Check the "REFERENCE" note for a full list of element style properties.
+- Check the [REFERENCE](https://github.com/zelenqk/YOYOGA-wrapper/blob/main/notes/REFFERENCE/REFFERENCE.txt) note for a full list of element style properties.
 - The oController object is used as an example of how to add instances to UI layers at runtime.
 
 ---
