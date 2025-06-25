@@ -6,7 +6,7 @@
 
 ## About This Wrapper
 
-This is an attempt to demystify the new UI system in GameMaker — specifically the FlexPanel/Yoga-based layout tools.
+This is an attempt to demystify the new UI system in GameMaker specifically the FlexPanel/Yoga-based layout tools.
 
 While this wrapper isn't production-ready, it's a great starting point to understand how the system works.  
 You can study it, extend it, or build your own version from scratch.
