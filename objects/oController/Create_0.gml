@@ -25,7 +25,9 @@ button = main.object(oButton, {
 		"height": 100,
 	},{
 	"instanceVariables": {
-		"sprite_index": sTest,
+		"sprite_index": sTest,		//Variables set here get overwritten on instance creation for some reason
+		//since the sprite of oButton is sPixel not sTest at runtime
+		//so you need to handle such cases yourself like i do below
 		"width": 300,
 		"height": 100,
 		"onClick": function(){
