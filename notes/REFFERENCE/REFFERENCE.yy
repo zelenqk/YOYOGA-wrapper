@@ -4,7 +4,7 @@
   "name":"REFFERENCE",
   "parent":{
     "name":"Notes",
-    "path":"folders/Notes.yy",
+    "path":"folders/YOYOGA/Notes.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",

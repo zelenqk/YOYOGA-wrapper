@@ -6,7 +6,7 @@
   "name":"mouse_system",
   "parent":{
     "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "path":"folders/YOYOGA/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

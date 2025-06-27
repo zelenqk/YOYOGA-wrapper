@@ -18,7 +18,7 @@
   "name":"rmMain",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "path":"folders/YOYOGA/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
