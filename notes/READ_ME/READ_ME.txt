@@ -29,6 +29,7 @@ You can study it, extend it, or build your own version from scratch.
 ---
 
 ## Quirks
+
 > Colors
 	So for some reason colors are an unsigned negative integer and since GM colors are weird too they
 	are not compatible with GM's UI system's colors
