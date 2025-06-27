@@ -3,7 +3,7 @@
   "%Name":"RoomUI",
   "children":[
     {"$GMRUILayer":"v1","%Name":"MAIN","alignItems":2,"children":[
-        {"$GMRSpriteGraphic":"v1","%Name":"huinq","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"huinq","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"sTest","path":"sprites/sTest/sTest.yy",},"x":0.0,"y":0.0,},
+        {"$GMRSpriteGraphic":"v1","%Name":"graphic_7AB5DFAB","animationSpeed":1.0,"colour":4294901760,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7AB5DFAB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"sTest","path":"sprites/sTest/sTest.yy",},"x":0.0,"y":0.0,},
       ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"MAIN","nodeColour":4292801096,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
   ],
   "locked":false,

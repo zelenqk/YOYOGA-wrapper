@@ -28,6 +28,15 @@ You can study it, extend it, or build your own version from scratch.
 
 ---
 
+## Quirks
+> Colors
+	So for some reason colors are an unsigned negative integer and since GM colors are weird too they
+	are not compatible with GM's UI system's colors
+	
+	colors are formatted as so AABBGGRR... yep and you cant use gamemaker colors so you need to use 0xFF0000FF this makes red color and 0xFFFF00FF makes magenta
+
+
+---
 ## What's Next?
 
 I might rebuild this into something more powerful later.  

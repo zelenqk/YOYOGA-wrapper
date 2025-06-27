@@ -10,8 +10,9 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/YOYOGA/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"TESTING","folderPath":"folders/TESTING.yy","name":"TESTING","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"YOYOGA","folderPath":"folders/YOYOGA.yy","name":"YOYOGA","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/YOYOGA/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/YOYOGA/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/YOYOGA/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/YOYOGA/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -32,7 +33,9 @@
     {"id":{"name":"REFFERENCE","path":"notes/REFFERENCE/REFFERENCE.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"oController","path":"objects/oController/oController.yy",},},
+    {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},},
     {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},},
+    {"id":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"mouse_system","path":"scripts/mouse_system/mouse_system.yy",},},
     {"id":{"name":"yoga_wrapper","path":"scripts/yoga_wrapper/yoga_wrapper.yy",},},
@@ -42,6 +45,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
     {"roomId":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},},
   ],
   "templateType":"game",
