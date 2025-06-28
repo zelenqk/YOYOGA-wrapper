@@ -34,7 +34,7 @@ You can study it, extend it, or build your own version from scratch.
 	So for some reason colors are an unsigned negative integer and since GM colors are weird too they
 	are not compatible with GM's UI system's colors
 	
-	colors are formatted as so AABBGGRR... yep and you cant use gamemaker colors so you need to use 0xF0000FF this makes red color and 0xFFFF00FF makes magenta
+	colors are formatted as so AABBGGRR... yep and you cant use gamemaker colors so you need to use 0xFF0000FF this makes red color and 0xFFFF00FF makes magenta
 	or you could use the util func make_color(r, g, b, a) where a is between 0 and 1
 
 ---

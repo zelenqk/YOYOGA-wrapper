@@ -100,7 +100,7 @@ function set_style(element, style){
 
 //this is because of the color being weird big endian
 function make_color(r, g, b, a){
-	var alpha = clamp(round(a * 255), 0, 255);
+	var alpha = clamp(a * 255, 0, 255);
 	return (alpha << 24) | (r << 16) | (g << 8) | b;
 }
 
